@@ -1,6 +1,4 @@
-<div style="text-align: center; font-family: Arial, sans-serif;">
 <h1>Hey there, it's Arian!</h1>
-</div>
 <p>Pursuing BSc in CSE. Mostly a CP fanatic, but would love to contribute more to the development field.</p>
 <h2>Languages and Tools</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
