@@ -10,7 +10,3 @@
 <a target="_blank" href="https://www.instagram.com/mubtasimsajidahmed_arian" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://www.youtube.com/@mubtasimsajidahmed_arian" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a>
 <a target="_blank" href="https://stackoverflow.com/users/mubtasim-sajid-ahmed-arian" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=MubtasimSajid&show_icons=true&locale=en" alt="MubtasimSajid" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MubtasimSajid&" alt="MubtasimSajid" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MubtasimSajid&show_icons=true&locale=en&layout=compact" alt="MubtasimSajid" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MubtasimSajid" alt="MubtasimSajid" /></a></p>
