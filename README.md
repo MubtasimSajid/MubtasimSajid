@@ -1,5 +1,5 @@
 <h1>Hey there, it's Arian!</h1>
-<p>Pursuing BSc in CSE. Mostly a CP fanatic, but would love to contribute more to the development field.</p>
+<p>Pursuing BSc in CSE at IUT, belonging to their '22 batch.</p>
 <h2>Languages and Tools</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a></p>
