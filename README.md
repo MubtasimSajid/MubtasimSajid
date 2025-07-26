@@ -1,8 +1,6 @@
 <h1>Hey there, it's Arian!</h1>
-<p>Pursuing BSc in CSE at IUT, belonging to their '22 batch.</p>
+<p>Pursuing a BSc in CSE at IUT, belonging to their '22 batch.</p>
 <h2>Languages and Tools</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a></p>
 <h2>Socials</h2>
 <p><a target="_blank" href="https://twitter.com/Arian_MS2A" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/mubtasim-sajid-ahmed-arian" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
