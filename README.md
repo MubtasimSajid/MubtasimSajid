@@ -11,4 +11,4 @@
   “You had me at hello, goodbye & everything in between.”
   <cite>— Shannon L. Alder</cite>
 </blockquote>
-<p> A lot has been said. Cheers! I wish you luck, O unknown reader. May both of our futures be enlightened. You shall have me at hello, goodbye & everything in between.</p>
+<p> A lot has been said - cheers! I wish you luck, O unknown reader. May both of our futures be enlightened. You shall have me at hello, goodbye & everything in between.</p>
