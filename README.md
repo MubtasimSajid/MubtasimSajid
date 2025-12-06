@@ -6,7 +6,7 @@
 <h2>I really like to code (though I'm bad at it🥲)</h2>
 <p>I love the idea of computers & humans being able to program with an eloquent tapestry of logic & math. For the CPU, the truth is objective & straightforward. This concept & this ability appear attractive to my curiosity & a thirst for reliable systems. My hope is to contribute to this incredible field & help strengthen the position of the Muslim ummah in the global technological landscape. May Allah help the ummah & bless me.</p>
 <br>
-<h2>Frewell</h2>
+<h2>Farewell</h2>
 <blockquote>
   “You had me at hello, goodbye & everything in between.”
   <cite>— Shannon L. Alder</cite>
